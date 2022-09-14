@@ -33,7 +33,7 @@ Testes para aplicar:
 
 **Obrigatório 5** - Um vez na tela de vagas, terá que buscar por `uma empresa` onde terá um ou mais resultados de vagas;
 
-**Deferencial** - Você poderá documentar testes para a criação de contas com redes sociais (github, linkedin e google)
+**Diferencial** - Você poderá documentar testes para a criação de contas com redes sociais (github, linkedin e google)
 
 ## Parte 2 - Finalização e Instruções para a Apresentação
 
