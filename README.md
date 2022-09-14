@@ -29,7 +29,7 @@ Testes para aplicar:
 
 **Obrigatório 4** - Ao criar a conta você será direcionado ao sistema para o preenchimento do perfil e deverá testar os formulários que estarão em cada etapa do preenchimento do perfil;
 
-> Nota: caso seja necessário criar conta na plataforma, utilize dados fictícios criados através do site https://randomuser.me/
+> Nota: utilize dados fictícios criados através do site https://randomuser.me/
 
 **Obrigatório 5** - Um vez na tela de vagas, terá que buscar por `uma empresa` onde terá um ou mais resultados de vagas;
 
