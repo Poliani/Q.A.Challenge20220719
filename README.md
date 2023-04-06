@@ -33,4 +33,4 @@ Dentro do projeto e2e, temos também arquivos .feature onde são os testes em BD
 Há também pasta das telas que foram automatizadas contendo "Conta" e "Vagas", nelas encontra-se o processo de criação de conta e o caminho para buscar por uma vaga no site da Coodesh.
 
 ##### Link do vídeo
-> 
+> https://www.loom.com/share/8c0b920c5bbe40d4943a1e8a08a75d8b
