@@ -1,0 +1,25 @@
+{
+  "name": "qa-challenge-20220719",
+  "version": "1.0.0",
+  "description": "Por favor, complete o seguinte desafio para seguir com a sua candidatura. Você deverá documentar o seu processo e apresentá-lo em um vídeo (utilizando um PowerPoint ou apresentação semelhante), bem como demonstrar o resultado.",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "npx cypress open" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@lab.coodesh.com:polianifidencio/qa-challenge-20220719.git"
+  },
+  "author": "Elizabeth Poliani Fidencio Nunes",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/e2e",
+    "commonPath": "cypress/e2e/common",
+    "stepDefinitions": "cypress/e2e/path-to-step-definition/**/*.{js,ts}",
+    "nonGlobalStepDefinitions": true
+  }
+}
